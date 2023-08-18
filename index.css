@@ -21,6 +21,10 @@ button {
     font-weight: bold;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 #delete-btn {
     background: white;
     color: #5f9341;
